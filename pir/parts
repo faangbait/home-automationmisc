@@ -1,0 +1,16 @@
+Main Chip> https://www.ebay.com/itm/ESP8266-ESP-01-WiFi-Adapter-Module-w-Wireless-Module-Compatible-for-Arduino/332998090207?hash=item4d883b9ddf:g:FPQAAOSw7HhcLPaw:rk:28:pf:0
+
+Do yourself a favor and just shell out the $10 or so for this version with extra header pins and a reset button.
+You can acquire the ESP module and flasher separately ($3.5 for the ESP, $2 for the flasher without header pins) a little cheaper,
+but remember that you have to pull a pin low to flash, and you'll need to access a GPIO pin for your sensor.
+This gives you the best of both worlds since a F-F header can jump the pins you need for flashing and then connect to your sensor module.
+
+PIR Sensor> https://www.ebay.com/itm/HC-SR501-PIR-IR-Passive-Infrared-Motion-Detector-Sensor-Module-Arduino-HCSR501/382572427755?hash=item591317f9eb:g:EOAAAOSwlINbqUco:rk:21:pf:0
+
+USB to AC adapter> https://www.ebay.com/itm/Akiko-Electronics-Universal-USB-1-0-AMP-Power-Adapter-Wall-Charger-Plug/292502613153?hash=item441a83aca1:rk:5:pf:0&var
+
+Total estimated cost:
+ESP Chip: $10
+PIR Sensor $4
+USB Adapter: $2
+Project Box: 3d printed free
