@@ -7,6 +7,6 @@ The basic config of sensor/response is over mqtt with the mysensors platform.
 This was a super easy way to roll everything out into one cohesive platform.
 
 Lights: https://www.amazon.com/gp/product/B0769JZRKC/ref=ppx_yo_dt_b_asin_title_o03__o00_s00?ie=UTF8&psc=1
-Flashed to github.com//stelgenhof/AiLight
+Flashed to github.com/stelgenhof/AiLight
 
 Sensors: See individual folders in this repo
